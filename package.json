@@ -1,0 +1,25 @@
+{
+  "name": "runme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amelcharai/runme.git"
+  },
+  "keywords": [],
+  "author": "amelcharai",
+  "license": "ISC",
+  "engines": {
+    "node": ">=12"
+  },
+  "bugs": {
+    "url": "https://github.com/amelcharai/runme/issues"
+  },
+  "homepage": "https://github.com/amelcharai/runme#readme",
+  "dependencies": {}
+}
